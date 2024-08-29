@@ -1,1 +1,1 @@
-# was
+awsproject practice repo
